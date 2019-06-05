@@ -1,6 +1,6 @@
 # private-ai
 
-Notebooks for Udacity's Secure and Private AI course.
+Solution for Udacity's Secure and Private AI course exercise.
 
 ## Dependencies
 
@@ -13,4 +13,4 @@ conda install numpy jupyter notebook
 conda install pytorch torchvision -c pytorch
 pip install syft
 ```
-
+or #### you can use google colab
